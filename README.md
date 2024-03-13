@@ -1,16 +1,19 @@
-### Hi there 👋
+## Eduardo Honeyman Alvarado👋
+### Estudiante de Ingenieria Pontificia Universidad Catolica de Chile
 
-<!--
-**Eduxardo/Eduxardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Major
+IDI (Ingenieria, Diseño e Innovacion)
 
-Here are some ideas to get you started:
+### Titulo
+Ingenieria Mecanica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+- 🔭 I’m currently working on studing
+- 🌱 I’m currently learning japanese
+- 👯 I’m looking to collaborate on design projects
+- 🤔 I’m looking for help with DMing
+- 💬 Ask me about Video Games
+- 📫 How to reach me: eduardo.honeyman@uc.cl
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a long neck 
+
